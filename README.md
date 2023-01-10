@@ -23,7 +23,7 @@
 
 - [Hugo Rafael Freitas Negrão](https://github.com/hugonegrao) 
 
-- [Ewerton](link)
+- [Ewerton Costa](https://github.com/EwertonAvlis)
 
   
 
