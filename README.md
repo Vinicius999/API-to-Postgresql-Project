@@ -1,7 +1,7 @@
 <h1 align="center"> Star Wars data: API to Postgresql </h1>
 
 <p align="center">
-    Neste projeto tem como objetivo consumir dados de uma API pública usando Python, e armazenar os dados em um banco de dados PostgreSQL. Projeto desenvolvido para a disciplina de Banco de Dados I da Formação de Pyhton e Dados - Ada.
+    Projeto desenvolvido para a disciplina de Banco de Dados I da Formação de Pyhton e Dados - Ada. O projeto tem como objetivo consumir dados de uma API pública usando Python, e armazenar os dados em um banco de dados PostgreSQL. 
 </p>
 
 <p align="center">
