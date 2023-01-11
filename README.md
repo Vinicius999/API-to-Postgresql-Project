@@ -15,7 +15,7 @@
 
 # Autores
 
-- [Amanda](https://github.com/alananunes)
+- [Alana Nunes da Silva](https://github.com/alananunes)
 
 - [Augusto Vinicius da Silva](https://github.com/Vinicius999)
 
