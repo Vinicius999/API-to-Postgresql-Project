@@ -1,62 +1,62 @@
 id_planets;name;diameter;climate;gravity;terrain;population
-1.0;Tatooine;10465.0;arid;1 standard;desert;200000.0
-2.0;Alderaan;12500.0;temperate;1 standard;grasslands, mountains;2000000000.0
-3.0;Yavin IV;10200.0;temperate, tropical;1 standard;jungle, rainforests;1000.0
-4.0;Hoth;7200.0;frozen;1.1 standard;tundra, ice caves, mountain ranges;0.0
-5.0;Dagobah;8900.0;murky;0;swamp, jungles;0.0
-6.0;Bespin;118000.0;temperate;1.5 (surface), 1 standard (Cloud City);gas giant;6000000.0
-7.0;Endor;4900.0;temperate;0.85 standard;forests, mountains, lakes;30000000.0
-8.0;Naboo;12120.0;temperate;1 standard;grassy hills, swamps, forests, mountains;4500000000.0
-9.0;Coruscant;12240.0;temperate;1 standard;cityscape, mountains;1000000000000.0
-10.0;Kamino;19720.0;temperate;1 standard;ocean;1000000000.0
-11.0;Geonosis;11370.0;temperate, arid;0.9 standard;rock, desert, mountain, barren;100000000000.0
-12.0;Utapau;12900.0;temperate, arid, windy;1 standard;scrublands, savanna, canyons, sinkholes;95000000.0
-13.0;Mustafar;4200.0;hot;1 standard;volcanoes, lava rivers, mountains, caves;20000.0
-14.0;Kashyyyk;12765.0;tropical;1 standard;jungle, forests, lakes, rivers;45000000.0
-15.0;Polis Massa;0.0;artificial temperate ;0.56 standard;airless asteroid;1000000.0
-16.0;Mygeeto;10088.0;frigid;1 standard;glaciers, mountains, ice canyons;19000000.0
-17.0;Felucia;9100.0;hot, humid;0.75 standard;fungus forests;8500000.0
-18.0;Cato Neimoidia;0.0;temperate, moist;1 standard;mountains, fields, forests, rock arches;10000000.0
-19.0;Saleucami;14920.0;hot;0;caves, desert, mountains, volcanoes;1400000000.0
-20.0;Stewjon;0.0;temperate;1 standard;grass;0.0
-21.0;Eriadu;13490.0;polluted;1 standard;cityscape;22000000000.0
-22.0;Corellia;11000.0;temperate;1 standard;plains, urban, hills, forests;3000000000.0
-23.0;Rodia;7549.0;hot;1 standard;jungles, oceans, urban, swamps;1300000000.0
-24.0;Nal Hutta;12150.0;temperate;1 standard;urban, oceans, swamps, bogs;7000000000.0
-25.0;Dantooine;9830.0;temperate;1 standard;oceans, savannas, mountains, grasslands;1000.0
-26.0;Bestine IV;6400.0;temperate;0;rocky islands, oceans;62000000.0
-27.0;Ord Mantell;14050.0;temperate;1 standard;plains, seas, mesas;4000000000.0
-28.0;0;0.0;0;0;0;0.0
-29.0;Trandosha;0.0;arid;0.62 standard;mountains, seas, grasslands, deserts;42000000.0
-30.0;Socorro;0.0;arid;1 standard;deserts, mountains;300000000.0
-31.0;Mon Cala;11030.0;temperate;1;oceans, reefs, islands;27000000000.0
-32.0;Chandrila;13500.0;temperate;1;plains, forests;1200000000.0
-33.0;Sullust;12780.0;superheated;1;mountains, volcanoes, rocky deserts;18500000000.0
-34.0;Toydaria;7900.0;temperate;1;swamps, lakes;11000000.0
-35.0;Malastare;18880.0;arid, temperate, tropical;1.56;swamps, deserts, jungles, mountains;2000000000.0
-36.0;Dathomir;10480.0;temperate;0.9;forests, deserts, savannas;5200.0
-37.0;Ryloth;10600.0;temperate, arid, subartic;1;mountains, valleys, deserts, tundra;1500000000.0
-38.0;Aleen Minor;0.0;0;0;0;0.0
-39.0;Vulpter;14900.0;temperate, artic;1;urban, barren;421000000.0
-40.0;Troiken;0.0;0;0;desert, tundra, rainforests, mountains;0.0
-41.0;Tund;12190.0;0;0;barren, ash;0.0
-42.0;Haruun Kal;10120.0;temperate;0.98;toxic cloudsea, plateaus, volcanoes;705300.0
-43.0;Cerea;0.0;temperate;1;verdant;450000000.0
-44.0;Glee Anselm;15600.0;tropical, temperate;1;lakes, islands, swamps, seas;500000000.0
-45.0;Iridonia;0.0;0;0;rocky canyons, acid pools;0.0
-46.0;Tholoth;0.0;0;0;0;0.0
-47.0;Iktotch;0.0;arid, rocky, windy;1;rocky;0.0
-48.0;Quermia;0.0;0;0;0;0.0
-49.0;Dorin;13400.0;temperate;1;0;0.0
-50.0;Champala;0.0;temperate;1;oceans, rainforests, plateaus;3500000000.0
-51.0;Mirial;0.0;0;0;deserts;0.0
-52.0;Serenno;0.0;0;0;rainforests, rivers, mountains;0.0
-53.0;Concord Dawn;0.0;0;0;jungles, forests, deserts;0.0
-54.0;Zolan;0.0;0;0;0;0.0
-55.0;Ojom;0.0;frigid;0;oceans, glaciers;500000000.0
-56.0;Skako;0.0;temperate;1;urban, vines;500000000000.0
-57.0;Muunilinst;13800.0;temperate;1;plains, forests, hills, mountains;5000000000.0
-58.0;Shili;0.0;temperate;1;cities, savannahs, seas, plains;0.0
-59.0;Kalee;13850.0;arid, temperate, tropical;1;rainforests, cliffs, canyons, seas;4000000000.0
-60.0;Umbara;0.0;0;0;0;0.0
-0.0;;0.0;;;;0.0
+1;Tatooine;10465;arid;1 standard;desert;200000
+2;Alderaan;12500;temperate;1 standard;grasslands, mountains;2000000000
+3;Yavin IV;10200;temperate, tropical;1 standard;jungle, rainforests;1000
+4;Hoth;7200;frozen;1.1 standard;tundra, ice caves, mountain ranges;0
+5;Dagobah;8900;murky;0;swamp, jungles;0
+6;Bespin;118000;temperate;1.5 (surface), 1 standard (Cloud City);gas giant;6000000
+7;Endor;4900;temperate;0.85 standard;forests, mountains, lakes;30000000
+8;Naboo;12120;temperate;1 standard;grassy hills, swamps, forests, mountains;4500000000
+9;Coruscant;12240;temperate;1 standard;cityscape, mountains;1000000000000
+10;Kamino;19720;temperate;1 standard;ocean;1000000000
+11;Geonosis;11370;temperate, arid;0.9 standard;rock, desert, mountain, barren;100000000000
+12;Utapau;12900;temperate, arid, windy;1 standard;scrublands, savanna, canyons, sinkholes;95000000
+13;Mustafar;4200;hot;1 standard;volcanoes, lava rivers, mountains, caves;20000
+14;Kashyyyk;12765;tropical;1 standard;jungle, forests, lakes, rivers;45000000
+15;Polis Massa;0;artificial temperate ;0.56 standard;airless asteroid;1000000
+16;Mygeeto;10088;frigid;1 standard;glaciers, mountains, ice canyons;19000000
+17;Felucia;9100;hot, humid;0.75 standard;fungus forests;8500000
+18;Cato Neimoidia;0;temperate, moist;1 standard;mountains, fields, forests, rock arches;10000000
+19;Saleucami;14920;hot;0;caves, desert, mountains, volcanoes;1400000000
+20;Stewjon;0;temperate;1 standard;grass;0
+21;Eriadu;13490;polluted;1 standard;cityscape;22000000000
+22;Corellia;11000;temperate;1 standard;plains, urban, hills, forests;3000000000
+23;Rodia;7549;hot;1 standard;jungles, oceans, urban, swamps;1300000000
+24;Nal Hutta;12150;temperate;1 standard;urban, oceans, swamps, bogs;7000000000
+25;Dantooine;9830;temperate;1 standard;oceans, savannas, mountains, grasslands;1000
+26;Bestine IV;6400;temperate;0;rocky islands, oceans;62000000
+27;Ord Mantell;14050;temperate;1 standard;plains, seas, mesas;4000000000
+28;unknown;0;0;0;0;0
+29;Trandosha;0;arid;0.62 standard;mountains, seas, grasslands, deserts;42000000
+30;Socorro;0;arid;1 standard;deserts, mountains;300000000
+31;Mon Cala;11030;temperate;1;oceans, reefs, islands;27000000000
+32;Chandrila;13500;temperate;1;plains, forests;1200000000
+33;Sullust;12780;superheated;1;mountains, volcanoes, rocky deserts;18500000000
+34;Toydaria;7900;temperate;1;swamps, lakes;11000000
+35;Malastare;18880;arid, temperate, tropical;1.56;swamps, deserts, jungles, mountains;2000000000
+36;Dathomir;10480;temperate;0.9;forests, deserts, savannas;5200
+37;Ryloth;10600;temperate, arid, subartic;1;mountains, valleys, deserts, tundra;1500000000
+38;Aleen Minor;0;0;0;0;0
+39;Vulpter;14900;temperate, artic;1;urban, barren;421000000
+40;Troiken;0;0;0;desert, tundra, rainforests, mountains;0
+41;Tund;12190;0;0;barren, ash;0
+42;Haruun Kal;10120;temperate;0.98;toxic cloudsea, plateaus, volcanoes;705300
+43;Cerea;0;temperate;1;verdant;450000000
+44;Glee Anselm;15600;tropical, temperate;1;lakes, islands, swamps, seas;500000000
+45;Iridonia;0;0;0;rocky canyons, acid pools;0
+46;Tholoth;0;0;0;0;0
+47;Iktotch;0;arid, rocky, windy;1;rocky;0
+48;Quermia;0;0;0;0;0
+49;Dorin;13400;temperate;1;0;0
+50;Champala;0;temperate;1;oceans, rainforests, plateaus;3500000000
+51;Mirial;0;0;0;deserts;0
+52;Serenno;0;0;0;rainforests, rivers, mountains;0
+53;Concord Dawn;0;0;0;jungles, forests, deserts;0
+54;Zolan;0;0;0;0;0
+55;Ojom;0;frigid;0;oceans, glaciers;500000000
+56;Skako;0;temperate;1;urban, vines;500000000000
+57;Muunilinst;13800;temperate;1;plains, forests, hills, mountains;5000000000
+58;Shili;0;temperate;1;cities, savannahs, seas, plains;0
+59;Kalee;13850;arid, temperate, tropical;1;rainforests, cliffs, canyons, seas;4000000000
+60;Umbara;0;0;0;0;0
+0;;0;;;;0

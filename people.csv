@@ -1,84 +1,84 @@
-id_people;name;height;mass;hair_color;skin_color;birth_year;gender;homeworld
-1.0;Luke Skywalker;172.0;77.0;blond;fair;19BBY;male;1.0
-2.0;C-3PO;167.0;75.0;0;gold;112BBY;0;1.0
-3.0;R2-D2;96.0;32.0;0;white, blue;33BBY;0;8.0
-4.0;Darth Vader;202.0;136.0;none;white;41.9BBY;male;1.0
-5.0;Leia Organa;150.0;49.0;brown;light;19BBY;female;2.0
-6.0;Owen Lars;178.0;120.0;brown, grey;light;52BBY;male;1.0
-7.0;Beru Whitesun lars;165.0;75.0;brown;light;47BBY;female;1.0
-8.0;R5-D4;97.0;32.0;0;white, red;0;0;1.0
-9.0;Biggs Darklighter;183.0;84.0;black;light;24BBY;male;1.0
-10.0;Obi-Wan Kenobi;182.0;77.0;auburn, white;fair;57BBY;male;20.0
-11.0;Anakin Skywalker;188.0;84.0;blond;fair;41.9BBY;male;1.0
-12.0;Wilhuff Tarkin;180.0;0.0;auburn, grey;fair;64BBY;male;21.0
-13.0;Chewbacca;228.0;112.0;brown;0;200BBY;male;14.0
-14.0;Han Solo;180.0;80.0;brown;fair;29BBY;male;22.0
-15.0;Greedo;173.0;74.0;0;green;44BBY;male;23.0
-16.0;Jabba Desilijic Tiure;175.0;1358.0;0;green-tan, brown;600BBY;hermaphrodite;24.0
-18.0;Wedge Antilles;170.0;77.0;brown;fair;21BBY;male;22.0
-19.0;Jek Tono Porkins;180.0;110.0;brown;fair;0;male;26.0
-20.0;Yoda;66.0;17.0;white;green;896BBY;male;28.0
-21.0;Palpatine;170.0;75.0;grey;pale;82BBY;male;8.0
-22.0;Boba Fett;183.0;78.2;black;fair;31.5BBY;male;10.0
-23.0;IG-88;200.0;140.0;none;metal;15BBY;none;28.0
-24.0;Bossk;190.0;113.0;none;green;53BBY;male;29.0
-25.0;Lando Calrissian;177.0;79.0;black;dark;31BBY;male;30.0
-26.0;Lobot;175.0;79.0;none;light;37BBY;male;6.0
-27.0;Ackbar;180.0;83.0;none;brown mottle;41BBY;male;31.0
-28.0;Mon Mothma;150.0;0.0;auburn;fair;48BBY;female;32.0
-29.0;Arvel Crynyd;0.0;0.0;brown;fair;0;male;28.0
-30.0;Wicket Systri Warrick;88.0;20.0;brown;brown;8BBY;male;7.0
-31.0;Nien Nunb;160.0;68.0;none;grey;0;male;33.0
-32.0;Qui-Gon Jinn;193.0;89.0;brown;fair;92BBY;male;28.0
-33.0;Nute Gunray;191.0;90.0;none;mottled green;0;male;18.0
-34.0;Finis Valorum;170.0;0.0;blond;fair;91BBY;male;9.0
-35.0;Padmé Amidala;185.0;45.0;brown;light;46BBY;female;8.0
-36.0;Jar Jar Binks;196.0;66.0;none;orange;52BBY;male;8.0
-37.0;Roos Tarpals;224.0;82.0;none;grey;0;male;8.0
-38.0;Rugor Nass;206.0;0.0;none;green;0;male;8.0
-39.0;Ric Olié;183.0;0.0;brown;fair;0;male;8.0
-40.0;Watto;137.0;0.0;black;blue, grey;0;male;34.0
-41.0;Sebulba;112.0;40.0;none;grey, red;0;male;35.0
-42.0;Quarsh Panaka;183.0;0.0;black;dark;62BBY;male;8.0
-43.0;Shmi Skywalker;163.0;0.0;black;fair;72BBY;female;1.0
-44.0;Darth Maul;175.0;80.0;none;red;54BBY;male;36.0
-45.0;Bib Fortuna;180.0;0.0;none;pale;0;male;37.0
-46.0;Ayla Secura;178.0;55.0;none;blue;48BBY;female;37.0
-47.0;Ratts Tyerel;79.0;15.0;none;grey, blue;0;male;38.0
-48.0;Dud Bolt;94.0;45.0;none;blue, grey;0;male;39.0
-49.0;Gasgano;122.0;0.0;none;white, blue;0;male;40.0
-50.0;Ben Quadinaros;163.0;65.0;none;grey, green, yellow;0;male;41.0
-51.0;Mace Windu;188.0;84.0;none;dark;72BBY;male;42.0
-52.0;Ki-Adi-Mundi;198.0;82.0;white;pale;92BBY;male;43.0
-53.0;Kit Fisto;196.0;87.0;none;green;0;male;44.0
-54.0;Eeth Koth;171.0;0.0;black;brown;0;male;45.0
-55.0;Adi Gallia;184.0;50.0;none;dark;0;female;9.0
-56.0;Saesee Tiin;188.0;0.0;none;pale;0;male;47.0
-57.0;Yarael Poof;264.0;0.0;none;white;0;male;48.0
-58.0;Plo Koon;188.0;80.0;none;orange;22BBY;male;49.0
-59.0;Mas Amedda;196.0;0.0;none;blue;0;male;50.0
-60.0;Gregar Typho;185.0;85.0;black;dark;0;male;8.0
-61.0;Cordé;157.0;0.0;brown;light;0;female;8.0
-62.0;Cliegg Lars;183.0;0.0;brown;fair;82BBY;male;1.0
-63.0;Poggle the Lesser;183.0;80.0;none;green;0;male;11.0
-64.0;Luminara Unduli;170.0;56.2;black;yellow;58BBY;female;51.0
-65.0;Barriss Offee;166.0;50.0;black;yellow;40BBY;female;51.0
-66.0;Dormé;165.0;0.0;brown;light;0;female;8.0
-67.0;Dooku;193.0;80.0;white;fair;102BBY;male;52.0
-68.0;Bail Prestor Organa;191.0;0.0;black;tan;67BBY;male;2.0
-69.0;Jango Fett;183.0;79.0;black;tan;66BBY;male;53.0
-70.0;Zam Wesell;168.0;55.0;blonde;fair, green, yellow;0;female;54.0
-71.0;Dexter Jettster;198.0;102.0;none;brown;0;male;55.0
-72.0;Lama Su;229.0;88.0;none;grey;0;male;10.0
-73.0;Taun We;213.0;0.0;none;grey;0;female;10.0
-74.0;Jocasta Nu;167.0;0.0;white;fair;0;female;9.0
-75.0;R4-P17;96.0;0.0;none;silver, red;0;female;28.0
-76.0;Wat Tambor;193.0;48.0;none;green, grey;0;male;56.0
-77.0;San Hill;191.0;0.0;none;grey;0;male;57.0
-78.0;Shaak Ti;178.0;57.0;none;red, blue, white;0;female;58.0
-79.0;Grievous;216.0;159.0;none;brown, white;0;male;59.0
-80.0;Tarfful;234.0;136.0;brown;brown;0;male;14.0
-81.0;Raymus Antilles;188.0;79.0;brown;light;0;male;2.0
-82.0;Sly Moore;178.0;48.0;none;pale;0;female;60.0
-83.0;Tion Medon;206.0;80.0;none;grey;0;male;12.0
-0.0;;0.0;0.0;;;;;0.0
+id_people;name;height;mass;hair_color;skin_color;birth_year;gender;id_planets
+1;Luke Skywalker;172;77;blond;fair;19BBY;male;1
+2;C-3PO;167;75;0;gold;112BBY;0;1
+3;R2-D2;96;32;0;white, blue;33BBY;0;8
+4;Darth Vader;202;136;none;white;41.9BBY;male;1
+5;Leia Organa;150;49;brown;light;19BBY;female;2
+6;Owen Lars;178;120;brown, grey;light;52BBY;male;1
+7;Beru Whitesun lars;165;75;brown;light;47BBY;female;1
+8;R5-D4;97;32;0;white, red;0;0;1
+9;Biggs Darklighter;183;84;black;light;24BBY;male;1
+10;Obi-Wan Kenobi;182;77;auburn, white;fair;57BBY;male;20
+11;Anakin Skywalker;188;84;blond;fair;41.9BBY;male;1
+12;Wilhuff Tarkin;180;0;auburn, grey;fair;64BBY;male;21
+13;Chewbacca;228;112;brown;0;200BBY;male;14
+14;Han Solo;180;80;brown;fair;29BBY;male;22
+15;Greedo;173;74;0;green;44BBY;male;23
+16;Jabba Desilijic Tiure;175;1358;0;green-tan, brown;600BBY;hermaphrodite;24
+18;Wedge Antilles;170;77;brown;fair;21BBY;male;22
+19;Jek Tono Porkins;180;110;brown;fair;0;male;26
+20;Yoda;66;17;white;green;896BBY;male;28
+21;Palpatine;170;75;grey;pale;82BBY;male;8
+22;Boba Fett;183;78.2;black;fair;31.5BBY;male;10
+23;IG-88;200;140;none;metal;15BBY;none;28
+24;Bossk;190;113;none;green;53BBY;male;29
+25;Lando Calrissian;177;79;black;dark;31BBY;male;30
+26;Lobot;175;79;none;light;37BBY;male;6
+27;Ackbar;180;83;none;brown mottle;41BBY;male;31
+28;Mon Mothma;150;0;auburn;fair;48BBY;female;32
+29;Arvel Crynyd;0;0;brown;fair;0;male;28
+30;Wicket Systri Warrick;88;20;brown;brown;8BBY;male;7
+31;Nien Nunb;160;68;none;grey;0;male;33
+32;Qui-Gon Jinn;193;89;brown;fair;92BBY;male;28
+33;Nute Gunray;191;90;none;mottled green;0;male;18
+34;Finis Valorum;170;0;blond;fair;91BBY;male;9
+35;Padmé Amidala;185;45;brown;light;46BBY;female;8
+36;Jar Jar Binks;196;66;none;orange;52BBY;male;8
+37;Roos Tarpals;224;82;none;grey;0;male;8
+38;Rugor Nass;206;0;none;green;0;male;8
+39;Ric Olié;183;0;brown;fair;0;male;8
+40;Watto;137;0;black;blue, grey;0;male;34
+41;Sebulba;112;40;none;grey, red;0;male;35
+42;Quarsh Panaka;183;0;black;dark;62BBY;male;8
+43;Shmi Skywalker;163;0;black;fair;72BBY;female;1
+44;Darth Maul;175;80;none;red;54BBY;male;36
+45;Bib Fortuna;180;0;none;pale;0;male;37
+46;Ayla Secura;178;55;none;blue;48BBY;female;37
+47;Ratts Tyerel;79;15;none;grey, blue;0;male;38
+48;Dud Bolt;94;45;none;blue, grey;0;male;39
+49;Gasgano;122;0;none;white, blue;0;male;40
+50;Ben Quadinaros;163;65;none;grey, green, yellow;0;male;41
+51;Mace Windu;188;84;none;dark;72BBY;male;42
+52;Ki-Adi-Mundi;198;82;white;pale;92BBY;male;43
+53;Kit Fisto;196;87;none;green;0;male;44
+54;Eeth Koth;171;0;black;brown;0;male;45
+55;Adi Gallia;184;50;none;dark;0;female;9
+56;Saesee Tiin;188;0;none;pale;0;male;47
+57;Yarael Poof;264;0;none;white;0;male;48
+58;Plo Koon;188;80;none;orange;22BBY;male;49
+59;Mas Amedda;196;0;none;blue;0;male;50
+60;Gregar Typho;185;85;black;dark;0;male;8
+61;Cordé;157;0;brown;light;0;female;8
+62;Cliegg Lars;183;0;brown;fair;82BBY;male;1
+63;Poggle the Lesser;183;80;none;green;0;male;11
+64;Luminara Unduli;170;56.2;black;yellow;58BBY;female;51
+65;Barriss Offee;166;50;black;yellow;40BBY;female;51
+66;Dormé;165;0;brown;light;0;female;8
+67;Dooku;193;80;white;fair;102BBY;male;52
+68;Bail Prestor Organa;191;0;black;tan;67BBY;male;2
+69;Jango Fett;183;79;black;tan;66BBY;male;53
+70;Zam Wesell;168;55;blonde;fair, green, yellow;0;female;54
+71;Dexter Jettster;198;102;none;brown;0;male;55
+72;Lama Su;229;88;none;grey;0;male;10
+73;Taun We;213;0;none;grey;0;female;10
+74;Jocasta Nu;167;0;white;fair;0;female;9
+75;R4-P17;96;0;none;silver, red;0;female;28
+76;Wat Tambor;193;48;none;green, grey;0;male;56
+77;San Hill;191;0;none;grey;0;male;57
+78;Shaak Ti;178;57;none;red, blue, white;0;female;58
+79;Grievous;216;159;none;brown, white;0;male;59
+80;Tarfful;234;136;brown;brown;0;male;14
+81;Raymus Antilles;188;79;brown;light;0;male;2
+82;Sly Moore;178;48;none;pale;0;female;60
+83;Tion Medon;206;80;none;grey;0;male;12
+0;;0;0;;;;;0
